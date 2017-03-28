@@ -5,7 +5,7 @@ article that caught my attention: https://www.blendernation.com/2014/03/11/using
 Author blog from where it is possible to download the source:
 http://pyroevil.com/2014/02/07/neural-network-quadruped-walking-test/
 
-<iframe width="728" height="410" src="https://www.youtube.com/embed/mJaI2bnaq9Q" frameborder="0" allowfullscreen></iframe>
+![alt text](https://j.gifs.com/RgVxpO.gif)(https://youtu.be/mJaI2bnaq9Q)
 
 Presentation with more details about solution:
 [English](https://github.com/adrijanik/neural-network-with-genetic-algorithm/blob/master/project_nnetga/ml_eng_project.pdf)
